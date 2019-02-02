@@ -19,18 +19,18 @@
   ],
   "links":[
     {"source":0,"target":12,"value":1},
-    {"source":1,"target":12,"value":8},
-    {"source":2,"target":12,"value":10},
-    {"source":3,"target":12,"value":6},
+    {"source":1,"target":12,"value":1},
+    {"source":2,"target":12,"value":1},
+    {"source":3,"target":12,"value":1},
     {"source":4,"target":12,"value":1},
     {"source":5,"target":12,"value":1},
     {"source":6,"target":12,"value":1},
     {"source":7,"target":13,"value":1},
-    {"source":1,"target":13,"value":2},
+    {"source":1,"target":13,"value":1},
     {"source":8,"target":13,"value":1},
     {"source":6,"target":13,"value":1},
-    {"source":9,"target":13,"value":3},
-    {"source":10,"target":13,"value":3},
-    {"source":11,"target":13,"value":5}
+    {"source":9,"target":13,"value":1},
+    {"source":10,"target":13,"value":1},
+    {"source":11,"target":13,"value":1}
   ]
 }

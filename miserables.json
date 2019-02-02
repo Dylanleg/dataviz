@@ -12,8 +12,8 @@
     {"name":"Lahuec Cyril","group":1},
     {"name":"Horan John","group":1},
     {"name":"Duigan Joe","group":1},
-    {"name":"Incremental Learning of Simple Ranking Method Using Reference Profiles Models","group":1},
-    {"name":"Integrating a temporal composent into multi-criterai majority-rule sorting models","group":1}
+    {"name":"Incremental Learning of Simple Ranking Method Using Reference Profiles Models","group":2},
+    {"name":"Integrating a temporal composent into multi-criterai majority-rule sorting models","group":2}
 
 
   ],
@@ -29,8 +29,8 @@
     {"source":1,"target":13,"value":2},
     {"source":8,"target":13,"value":1},
     {"source":6,"target":13,"value":1},
+    {"source":9,"target":13,"value":3},
     {"source":10,"target":13,"value":3},
-    {"source":11,"target":13,"value":3},
-    {"source":12,"target":13,"value":5}
+    {"source":11,"target":13,"value":5}
   ]
 }

@@ -190,7 +190,7 @@
         {"name": "New approaches for UWB channel estimation relying on the compressed sampling of IR-UWB signals with finite rate of innovation", "group": "2"}     
     ],
     "links": [
-        {"source": 0, "target": 150, "value":1},
+        {"source": 0, "target": 150},
         {"source": 1, "target": 150, "value":1},
         {"source": 2, "target": 150, "value":1},
         {"source": 3, "target": 150, "value":1},

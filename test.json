@@ -16,7 +16,7 @@
     {"name":"Integrating a temporal composent into multi-criterai majority-rule sorting models","group":2}
   ],
   "links":[
-    {"source":"Khannoussi Arwa","target":"Incremental Learning of Simple Ranking Method Using Reference Profiles Models"},
+    {"source":1,"target":12},
     {"source":1,"target":12},
     {"source":2,"target":12},
     {"source":3,"target":12},
